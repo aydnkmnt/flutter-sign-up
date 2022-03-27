@@ -1,4 +1,4 @@
-# Flutter Basic Sign-Up Screen
+# Flutter Basic Sign-Up Screen with Firebase authentication.
 
 Learned from Vandad Nahavandipoor on Youtube Flutter Course.
 
